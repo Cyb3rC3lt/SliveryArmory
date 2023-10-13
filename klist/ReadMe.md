@@ -8,7 +8,7 @@ The quickest way to add this to Sliver is as follows.
 
 1. Download the zip file from the releases here: https://github.com/Cyb3rC3lt/SliveryArmory/releases/tag/v1.0.0
 2. Extract it to a folder on your machine
-3. Within Sliver load the folder you extracted with this command: `extensions install /home/david/klist-v1.0.0`
+3. Within Sliver load the folder you extracted with this command: `extensions install /home/david/klist`
 4. Then load the extension into Sliver as follows: `extensions load /home/david/.sliver-client/extensions/klist`
 
 ## Install From Source
