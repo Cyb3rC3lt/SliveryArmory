@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "command_name": "klist",
     "extension_author": "Cyb3rC3lt",
-    "original_author": "Cyb3rC3lt",
+    "original_author": "OutflankNL",
     "repo_url": "https://github.com/Cyb3rC3lt/SliverArmory/klistBOF",
     "help": "Displays a list of currently cached Kerberos tickets.",
     "long_help": "",
